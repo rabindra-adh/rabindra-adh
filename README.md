@@ -1,6 +1,6 @@
 ### Hi! Nice to see you 👋
 
-I am Rabindra Adhikari. I am intersted in software development. I graduated in Bachelors of Computer Scinece(2022) from Saint Cloud State University. 
+I am Rabindra Adhikari. I am intersted in software development. I graduated in Bachelors of Computer Science(2022) from Saint Cloud State University. 
 
  📫 How to reach me: adh7078@gmail.com
  
